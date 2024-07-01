@@ -1,0 +1,6 @@
+﻿  temperature_Converter.cpp
+C:\Users\HP\Desktop\PRODIGY TASKS\temperature_Converter\temperature_Converter\temperature_Converter.cpp(10,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\Desktop\PRODIGY TASKS\temperature_Converter\temperature_Converter\temperature_Converter.cpp(14,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\Desktop\PRODIGY TASKS\temperature_Converter\temperature_Converter\temperature_Converter.cpp(23,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\Desktop\PRODIGY TASKS\temperature_Converter\temperature_Converter\temperature_Converter.cpp(32,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  temperature_Converter.vcxproj -> C:\Users\HP\Desktop\PRODIGY TASKS\temperature_Converter\x64\Debug\temperature_Converter.exe
